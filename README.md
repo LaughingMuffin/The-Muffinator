@@ -19,10 +19,10 @@
         <td>YES</td>
     </tr>
     <tr>
-        <td><IMG src="https://play-lh.googleusercontent.com/4SWPSW9VyEJJeL6pR8UKX3WZXuGh2rlnset8QrxcwjLPwHLbtSuVf1cATaCr7HJkbx8=s150"></td>
+        <td><IMG src="https://play-lh.googleusercontent.com/IpdMgtElKKnFQ_Jut6pFdl1KVJm4XBIHyxksgDDbq_qQ-jttMWkOiNbf1dE_KuRpCQ=s150"></td>
         <td>The Seven Deadly Sins</td>
         <td>com.netmarble.nanagb</td>
-        <td>2.56.0</td>
+        <td>2.57.0</td>
         <td>64BIT</td>
         <td>YES</td>
     </tr>
